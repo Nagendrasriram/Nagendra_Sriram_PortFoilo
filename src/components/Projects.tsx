@@ -46,6 +46,14 @@ const projects = [
     gradient: "from-pink-500 to-rose-500",
   },
   {
+  title: "Franka Panda GyroSensor Control",
+  description: "Real-time balance and motion stabilization system for the Franka Emika Panda robotic arm using a gyroscope/IMU. The project captures IMU data, fuses it with a Kalman filter, and feeds corrective control commands to the Panda via ROS to reduce oscillations, improve end-effector steadiness, and enable smooth human-guided trajectories.",
+  tech: ["Python", "ROS (Robot Operating System)", "C++ (control node)", "MPU-6050 / IMU", "Kalman Filter", "RT-Controller", "Gazebo (simulation)", "NumPy", "Matplotlib"],
+  github: "https://github.com/Nagendrasriram",
+  demo: "https://www.youtube.com/@Nagendra103",
+  gradient: "from-green-400 to-blue-500",
+  }
+  {
     title: "Portfolio Website",
     description: "Personal portfolio website showcasing projects, skills, and professional experience with modern design and animations.",
     tech: ["React", "TypeScript", "Tailwind CSS"],

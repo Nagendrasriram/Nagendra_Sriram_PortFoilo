@@ -7,14 +7,14 @@ const experiences = [
   {
     title: "Web Developer Intern",
     company: "Atoms Digital Solutions",
-    period: "Dec 2024 – Present",
+    period: "Dec 2024 – Mar 2025",
     description: [
       "Building responsive web applications with modern frameworks",
       "Optimizing UI/UX design and user experience flows",
       "Improving application performance and load times",
       "Collaborating with cross-functional teams on client projects",
     ],
-    current: true,
+    current: false,
   },
   {
     title: "Frontend Developer Intern",
